@@ -2,8 +2,8 @@
 $link = mysqli_connect("localhost", "mysql_username","mysql_password");
 $database = mysqli_select_db($link, "mysql_database");
 
-$user = $_GET['username'];
-$password = $_GET['password'];
+$user = $_GET['TotallyASmurf'];
+$password = $_GET['TKOzzie'];
 $hwid = $_GET['hwid'];
 $tables = "mybb_users";
 
